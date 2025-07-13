@@ -1,5 +1,7 @@
 package com.jdbchomework;
 
+// With Prepare Statement 
+
 import java.sql.*;
 import java.util.Scanner;
 
